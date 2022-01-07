@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 - 👋 I am Ayah Hamdan
 - 🎓 I am a computer engineering student at Birzeit University
-- 🌱 I am currently learning Front-End Web Development
 - 📫 How to reach me: ayah.khamdan@gmail.com
 
 <br />
