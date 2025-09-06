@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1>About Me 📌</h1>
 
 - 👋 I am Ayah Hamdan
-- 🎓 I am a computer engineering student at Birzeit University
+- 🎓 I am a software Engineer
 - 📫 How to reach me: ayah.khamdan@gmail.com
 
 <br />
